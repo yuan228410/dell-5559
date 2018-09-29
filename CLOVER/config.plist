@@ -625,8 +625,6 @@
 		<string>Mac-473D31EABEB93F9B</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string>C02729902QXF9H1FB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -653,8 +651,6 @@
 		<string>0x1A</string>
 		<key>ProductName</key>
 		<string>MacBookPro13,1</string>
-		<key>SerialNumber</key>
-		<string>C02V30XRGVC1</string>
 		<key>SmUUID</key>
 		<string>2B6DE36E-4F00-49B7-ABEB-066915002C32</string>
 		<key>Version</key>
@@ -664,8 +660,6 @@
 	<dict>
 		<key>InjectKexts</key>
 		<string>Yes</string>
-		<key>NoCaches</key>
-		<false/>
 	</dict>
 </dict>
 </plist>
