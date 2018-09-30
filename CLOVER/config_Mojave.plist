@@ -192,9 +192,7 @@
 		<key>#DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 kext-dev-mode=1</string>
-		<key>NeverHibernate</key>
-		<true/>
+		<string>dart=0 nv_disable=1 kext-dev-mode=1 darkwake=9</string>
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
